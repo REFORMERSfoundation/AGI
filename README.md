@@ -1,2 +1,2 @@
 # AGI
-General AI
+The first benign AGI system.
